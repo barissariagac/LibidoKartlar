@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "1.2.0",
   "apkUrl": "https://raw.githubusercontent.com/barissariagac/LibidoKartlar/master/LibidoKartlari-latest.apk",
-  "releaseNotes": "build: refactor manifest generation to Python",
-  "publishedAt": "2026-11-17T14:04:25Z"
+  "releaseNotes": "chore: bump version and update app content",
+  "publishedAt": "2026-11-17T16:22:36Z"
 }
