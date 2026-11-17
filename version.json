@@ -2,6 +2,6 @@
   "versionCode": 2,
   "versionName": "1.1.0",
   "apkUrl": "https://raw.githubusercontent.com/barissariagac/LibidoKartlar/master/LibidoKartlari-latest.apk",
-  "releaseNotes": "ci: update Android SDK setup for CI builds",
-  "publishedAt": "2026-11-17T13:55:33Z"
+  "releaseNotes": "build: refactor manifest generation to Python",
+  "publishedAt": "2026-11-17T14:04:25Z"
 }
